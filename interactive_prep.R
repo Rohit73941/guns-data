@@ -5,7 +5,7 @@
 
 # Questions/comments/corrections to ben.casselman@fivethirtyeight.com
 # Interactive designed and built by Reuben Fischer-Baum and Matthew Conlen.
-#########
+##########
 # All deaths data is from the CDC's Multiple Cause of Death datafile.
 # Data: http://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Mortality_Multiple
 # Codebook: http://www.cdc.gov/nchs/data/dvs/Record_Layout_2014.pdf
